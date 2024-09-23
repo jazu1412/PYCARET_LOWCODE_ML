@@ -19,13 +19,6 @@ Each subdirectory contains:
 - A Jupyter notebook implementing the specific machine learning task
 - A README.md file explaining the contents and how to run the notebook
 
-## Assignment Overview
-
-This project is part of a larger assignment with the following objectives:
-
-1. Clone and successfully execute PyCaret example notebooks in our own environment.
-2. Create video tutorials explaining each notebook's functionality (1 minute per notebook).
-3. Organize the GitHub directory with proper README files.
 
 ## How to Use This Repository
 
