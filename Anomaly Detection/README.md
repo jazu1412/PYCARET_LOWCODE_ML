@@ -22,7 +22,7 @@ Note: The notebook is set up to use GPU if available (`use_gpu=True` in the setu
 
 ## Dataset
 
-The dataset used in this notebook is [[DATASET_NAME](https://www.kaggle.com/datasets/what0919/intrusion-detection/data?select=test_data.csv)] from [Kaggle]. It was chosen to demonstrate anomaly detection
+The dataset used in this notebook is [[Intrusion detection dataset](https://www.kaggle.com/datasets/what0919/intrusion-detection/data?select=test_data.csv)] from [Kaggle]. It was chosen to demonstrate anomaly detection
 
 ## Video Tutorial
 
