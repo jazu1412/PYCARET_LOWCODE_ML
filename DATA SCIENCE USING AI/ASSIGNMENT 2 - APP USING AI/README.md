@@ -20,7 +20,7 @@ To run the Expense Tracker application:
 1. Ensure you have Python and Flask installed.
 2. Navigate to the project directory:
    ```
-   cd "/Users/jayasurya-murali/Documents/GitHub/PYCARET_LOWCODE_ML-2/DATA SCIENCE USING AI/ASSIGNMENT 2 - APP USING AI"
+   cd "DATA SCIENCE USING AI/ASSIGNMENT 2 - APP USING AI"
    ```
 3. Run the Flask application:
    ```
@@ -34,7 +34,7 @@ To run the unit tests for the application:
 
 1. Navigate to the project directory:
    ```
-   cd "/Users/jayasurya-murali/Documents/GitHub/PYCARET_LOWCODE_ML-2/DATA SCIENCE USING AI/ASSIGNMENT 2 - APP USING AI"
+   cd "DATA SCIENCE USING AI/ASSIGNMENT 2 - APP USING AI"
    ```
 2. Run the tests using the following command:
    ```
