@@ -2,6 +2,10 @@
 
 This project analyzes Spotify's most streamed songs using data science techniques.
 
+##Video
+
+[Video link](https://drive.google.com/file/d/1EGNkRQvihBs-QWh3-KZ8g0uAri1lnhQj/view?usp=sharing)
+
 ## Medium Article
 
 For a detailed explanation of this project, please read the [Medium article](https://medium.com/@jayasurya141296/data-science-in-music-analyzing-spotifys-most-streamed-songs-bd8a1125b86f).
