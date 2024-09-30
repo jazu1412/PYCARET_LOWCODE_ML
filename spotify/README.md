@@ -16,7 +16,7 @@ The analysis and code for this project can be found in this [Google Colab notebo
 - `Spotify.ipynb`: Jupyter notebook containing the data analysis.
 - `Spotify Streaming Data Analysis.pdf`: Detailed PDF report of the analysis.
 
-## PDF Analysis Report
+## Chat GPT transcript PDF Analysis Report
 
 The `Spotify Streaming Data Analysis.pdf` file contains a comprehensive report of the data analysis performed on Spotify's streaming data. This report includes visualizations, insights, and detailed explanations of the methodologies used in the analysis.
 
