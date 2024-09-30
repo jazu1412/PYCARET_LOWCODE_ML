@@ -14,6 +14,10 @@ For a detailed explanation of this project, please read the [Medium article](htt
 
 The analysis and code for this project can be found in this [Google Colab notebook](https://colab.research.google.com/drive/1Q-TMikGi2CoULBsvVGrspzBHoEClLjtR?usp=sharing).
 
+## ChatGPT transcript link
+
+[ChatGPT transcript](https://chatgpt.com/share/66f9c77d-0f58-800e-a252-11a2aae4c84d)
+
 ## Project Structure
 
 - `README.md`: This file, containing project information and links.
